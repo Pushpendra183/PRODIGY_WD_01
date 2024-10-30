@@ -1,11 +1,10 @@
-# PRODIGY_WD_01
-#Landing Page
-This is a responsive landing page template built using HTML and CSS. The template includes a clean layout, responsive design, and customizable sections suitable for business, personal portfolios, or product launches.
+# PRODIGY_WD_01 Landing Page 
 
-Features
-Responsive Design: Optimized for mobile, tablet, and desktop screens.
-Modern Layout: Clean, user-friendly design with well-organized sections.
-Customizable: Easily modify text, colors, and images.
-Cross-Browser Compatible: Works on Chrome, Firefox, Safari, and Edge.
-Demo
-Add a link to the live demo here (if available).
+ This is an interactive landing page template created with HTML and CSS. This template features a clean layout, a responsive design, and customizable sections that make it suitable for business, personal portfolios, or product launches.
+
+ Features
+
+   - Responsive Design: This site is optimized for mobile, tablet, and desktop screens.
+   - Modern Layout: This site uses a clean, user-friendly design and features well-organized sections. 
+   - Customizable: You can easily modify text, colors, and images on this site. 
+   - Cross-Browser Compatible: This site works on Chrome, Firefox, and Edge.
